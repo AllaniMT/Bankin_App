@@ -1,2 +1,2 @@
-# Bankin_App
+# Banking_App
 Simple Banking Application in Java
